@@ -68,3 +68,6 @@ syntax:
 
 
 
+Note: when you commit files and you forgot to add message some thing might pop up saying "Please enter the commit message for your changes. Lines startingwith '#' will be ignored, and an empty message aborts the commit."
+
+in that case you just write your message and after you finish writing the messae press <esc> and then type :wq which stands for write and quit. this will save your commit message.
