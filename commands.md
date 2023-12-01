@@ -38,7 +38,7 @@ syntax: git branch
 
 to create new branch
 syntax:
-    git branch -b branch_name
+    git checkout -b branch_name
 
 git checkout - this is to swap between the branches in your local machine
 syntax: 
