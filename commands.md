@@ -1,6 +1,6 @@
 
 General Git Commands:
-
+hahsdhasjkdhkashdklhaskd
 git clone - this helps to clone the repo you want in the github 
 syntax:
     git clone ssh or https (you will find this inthe code menu which is in green color, you just copy and paste the ssh key or https url in place of ssh or https given in the syntax)
